@@ -20,3 +20,8 @@ The following principles will guide the development of the website:
 The website must look good, be accessible and functional without regard to the device upon which it is viewed. To that end, it must support desktop, laptop, tablet computers, and smart phones of existing operating systems as of launch date.
 
 Because it is anticipated the search engine queries will have visitors arriving at the site on a wide variety of pages, the navigation of the website must be consistent throughout so that visitors can easily find other website resources, no matter which of the main branches of the site "contain" the desired resource.
+
+Explore the possibilties of a new Logo for the Great Lakes Historical Society with concurrently designed Logos for each of the programs which "brand" each of the programs as functions of the Great Lakes Historical Society. It is expected that this effort will aid in the production of the various "compartments" within the website.
+
+Explore the possibilities of additional domain names to further the society's goals and protect them against use by others.
+
